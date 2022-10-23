@@ -18,8 +18,13 @@ header {
 }
 
 #img-div {
+    padding: 10px;
     text-align: center;
     background-color: #eee;
+}
+
+#img-caption {
+    margin-bottom: 0;
 }
 
 #image {
