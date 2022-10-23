@@ -3,6 +3,8 @@ body {
     margin: 0;
     padding: 20px;
 
+    background-color: #D8D8D8;
+
     color: #1B2430;
 }
 
@@ -17,6 +19,7 @@ header {
 
 #img-div {
     text-align: center;
+    background-color: #eee;
 }
 
 #image {
