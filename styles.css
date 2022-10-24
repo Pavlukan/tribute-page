@@ -46,3 +46,15 @@ header {
 #tribute-info {
     text-align: center;
 }
+
+ul {
+    text-align: left;
+
+    max-width: 500px;
+
+    margin: 40px auto 0 auto;
+}
+
+ul li {
+    margin-bottom: 22px;
+}
