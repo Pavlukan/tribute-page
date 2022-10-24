@@ -2,6 +2,8 @@
     --greyishColor: #D8D8D8;
     --softWhiteColor: #EEE;
     --fontColor: #1B2430;
+    --linkColor: #477CA7;
+    --linkHoverColor: #1665a7;
 }
 
 body {
@@ -76,4 +78,16 @@ ul li {
     text-align: left;
 
     margin-left: 18px;
+}
+
+h3:last-child {
+    margin-top: 40px;
+}
+
+a {
+    color: var(--linkColor);
+}
+
+a:hover {
+    color: var(--linkHoverColor); 
 }
