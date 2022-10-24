@@ -62,3 +62,18 @@ ul {
 ul li {
     margin-bottom: 22px;
 }
+
+#quote {
+    max-width: 500px;
+
+    font-style: italic;
+
+    margin: 40px auto 0 auto; 
+}
+
+#author {
+    font-weight: 600;
+    text-align: left;
+
+    margin-left: 18px;
+}
