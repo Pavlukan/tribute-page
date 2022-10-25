@@ -91,3 +91,22 @@ a {
 a:hover {
     color: var(--linkHoverColor); 
 }
+
+footer {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+
+    margin-top: 32px;
+}
+
+footer img {
+    height: 24px;
+    width: 24px;
+}
+
+footer a {
+    font-weight: 600;
+}
