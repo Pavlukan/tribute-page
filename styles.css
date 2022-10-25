@@ -36,12 +36,17 @@ header {
 }
 
 #image {
+    display: block;
+
+    margin: 0 auto 0 auto;
+
     height: auto;
     width: 400px;
     max-width: 100%;
 }
 
 #img-caption {
+    margin-top: 12px;
     margin-bottom: 0;
 }
 
